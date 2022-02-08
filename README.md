@@ -15,4 +15,6 @@ https://github.com/2510shea/CybersecuirtyProgramGrades/blob/main/Cybersecurity%2
 
 https://github.com/2510shea/CybersecuirtyProgramGrades/blob/main/Cybersecurity%20Grades%20Pt.%205.png
 
-Grades for Weeks 1-24. 
+https://github.com/2510shea/CybersecuirtyProgramGrades/blob/main/Cybersecurity%20Grades%20Pt.%206.png
+
+Grades for Weeks 1-24 including projects and final. 
